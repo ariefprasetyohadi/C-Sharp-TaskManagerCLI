@@ -1,0 +1,15 @@
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.csproj.AssemblyReference.cache
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.AssemblyInfoInputs.cache
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.AssemblyInfo.cs
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.csproj.CoreCompileInputs.cache
+/Users/shippo/TaskManagerCLI/bin/Debug/net6.0/TaskManagerCLI
+/Users/shippo/TaskManagerCLI/bin/Debug/net6.0/TaskManagerCLI.deps.json
+/Users/shippo/TaskManagerCLI/bin/Debug/net6.0/TaskManagerCLI.runtimeconfig.json
+/Users/shippo/TaskManagerCLI/bin/Debug/net6.0/TaskManagerCLI.dll
+/Users/shippo/TaskManagerCLI/bin/Debug/net6.0/TaskManagerCLI.pdb
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.dll
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/refint/TaskManagerCLI.dll
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.pdb
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/TaskManagerCLI.genruntimeconfig.cache
+/Users/shippo/TaskManagerCLI/obj/Debug/net6.0/ref/TaskManagerCLI.dll
